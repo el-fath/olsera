@@ -9,7 +9,7 @@
 
 ## Technical test OLSERA
 
-This is the technical test repo for join olsera, and here is stap to run this repo
+This is the technical test repo for join olsera, and here is the steps to run this repo
 
 - run "composer install"
 - run "php artisan migrate"
